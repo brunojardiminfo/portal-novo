@@ -1,0 +1,8 @@
+{
+  "name": "Portal de Saúde do Paciente - Urgetrauma",
+  "description": "Portal oficial da Urgetrauma para gestão de pacientes, check-in digital e autorizações. Saúde e movimento.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
